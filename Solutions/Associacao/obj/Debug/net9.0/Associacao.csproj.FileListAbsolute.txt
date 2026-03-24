@@ -1,0 +1,4 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\TecProgram-II\Solutions\Associacao\obj\Debug\net9.0\Associacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\TecProgram-II\Solutions\Associacao\obj\Debug\net9.0\Associacao.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\TecProgram-II\Solutions\Associacao\obj\Debug\net9.0\Associacao.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\TecProgram-II\Solutions\Associacao\obj\Debug\net9.0\Associacao.csproj.CoreCompileInputs.cache
