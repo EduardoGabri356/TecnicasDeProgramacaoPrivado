@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\exeption\Throw\bin\Debug\net9.0\Throw.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\exeption\Throw\bin\Debug\net9.0\Throw.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\exeption\Throw\bin\Debug\net9.0\Throw.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\exeption\Throw\bin\Debug\net9.0\Throw.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\exeption\Throw\bin\Debug\net9.0\Throw.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\exeption\Throw\obj\Debug\net9.0\Throw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\exeption\Throw\obj\Debug\net9.0\Throw.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\exeption\Throw\obj\Debug\net9.0\Throw.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\exeption\Throw\obj\Debug\net9.0\Throw.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\exeption\Throw\obj\Debug\net9.0\Throw.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\exeption\Throw\obj\Debug\net9.0\refint\Throw.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\exeption\Throw\obj\Debug\net9.0\Throw.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\exeption\Throw\obj\Debug\net9.0\Throw.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\exeption\Throw\obj\Debug\net9.0\ref\Throw.dll

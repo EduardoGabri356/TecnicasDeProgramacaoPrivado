@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\exeption\ExceçãoPersonalizada\bin\Debug\net9.0\ExceçãoPersonalizada.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\exeption\ExceçãoPersonalizada\bin\Debug\net9.0\ExceçãoPersonalizada.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\exeption\ExceçãoPersonalizada\bin\Debug\net9.0\ExceçãoPersonalizada.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\exeption\ExceçãoPersonalizada\bin\Debug\net9.0\ExceçãoPersonalizada.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\exeption\ExceçãoPersonalizada\bin\Debug\net9.0\ExceçãoPersonalizada.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\exeption\ExceçãoPersonalizada\obj\Debug\net9.0\ExceçãoPersonalizada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\exeption\ExceçãoPersonalizada\obj\Debug\net9.0\ExceçãoPersonalizada.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\exeption\ExceçãoPersonalizada\obj\Debug\net9.0\ExceçãoPersonalizada.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\exeption\ExceçãoPersonalizada\obj\Debug\net9.0\ExceçãoPersonalizada.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\exeption\ExceçãoPersonalizada\obj\Debug\net9.0\ExceçãoPersonalizada.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\exeption\ExceçãoPersonalizada\obj\Debug\net9.0\refint\ExceçãoPersonalizada.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\exeption\ExceçãoPersonalizada\obj\Debug\net9.0\ExceçãoPersonalizada.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\exeption\ExceçãoPersonalizada\obj\Debug\net9.0\ExceçãoPersonalizada.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\exeption\ExceçãoPersonalizada\obj\Debug\net9.0\ref\ExceçãoPersonalizada.dll

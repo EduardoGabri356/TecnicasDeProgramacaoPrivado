@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Trabalho-oo-Vania\Trabalho-oo-Vania\bin\Debug\net9.0\Trabalho-oo-Vania.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Trabalho-oo-Vania\Trabalho-oo-Vania\bin\Debug\net9.0\Trabalho-oo-Vania.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Trabalho-oo-Vania\Trabalho-oo-Vania\bin\Debug\net9.0\Trabalho-oo-Vania.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Trabalho-oo-Vania\Trabalho-oo-Vania\bin\Debug\net9.0\Trabalho-oo-Vania.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Trabalho-oo-Vania\Trabalho-oo-Vania\bin\Debug\net9.0\Trabalho-oo-Vania.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Trabalho-oo-Vania\Trabalho-oo-Vania\obj\Debug\net9.0\Trabalho-oo-Vania.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Trabalho-oo-Vania\Trabalho-oo-Vania\obj\Debug\net9.0\Trabalho-oo-Vania.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Trabalho-oo-Vania\Trabalho-oo-Vania\obj\Debug\net9.0\Trabalho-oo-Vania.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Trabalho-oo-Vania\Trabalho-oo-Vania\obj\Debug\net9.0\Trabalho-oo-Vania.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Trabalho-oo-Vania\Trabalho-oo-Vania\obj\Debug\net9.0\Trabalho-oo-Vania.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Trabalho-oo-Vania\Trabalho-oo-Vania\obj\Debug\net9.0\refint\Trabalho-oo-Vania.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Trabalho-oo-Vania\Trabalho-oo-Vania\obj\Debug\net9.0\Trabalho-oo-Vania.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Trabalho-oo-Vania\Trabalho-oo-Vania\obj\Debug\net9.0\Trabalho-oo-Vania.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Trabalho-oo-Vania\Trabalho-oo-Vania\obj\Debug\net9.0\ref\Trabalho-oo-Vania.dll
