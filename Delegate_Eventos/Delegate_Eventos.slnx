@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Delegate/Delegate.csproj" Id="f62e558a-1ac2-4f76-8adf-b3622afd23f1" />
+  <Project Path="Delegate_Eventos/Delegate_Eventos.csproj" />
+  <Project Path="EventHandle_SemArgumento/EventHandle_SemArgumento.csproj" Id="9a0ceb08-2b2d-4609-a34f-a9615eee5402" />
+  <Project Path="EventHanlde_ComArgumentos/EventHanlde_ComArgumentos.csproj" Id="38a994af-8fa9-40ca-8021-0d60598399fb" />
+</Solution>

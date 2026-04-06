@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\EventHanlde_ComArgumentos\bin\Debug\net9.0\EventHanlde_ComArgumentos.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\EventHanlde_ComArgumentos\bin\Debug\net9.0\EventHanlde_ComArgumentos.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\EventHanlde_ComArgumentos\bin\Debug\net9.0\EventHanlde_ComArgumentos.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\EventHanlde_ComArgumentos\bin\Debug\net9.0\EventHanlde_ComArgumentos.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\EventHanlde_ComArgumentos\bin\Debug\net9.0\EventHanlde_ComArgumentos.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\EventHanlde_ComArgumentos\obj\Debug\net9.0\EventHanlde_ComArgumentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\EventHanlde_ComArgumentos\obj\Debug\net9.0\EventHanlde_ComArgumentos.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\EventHanlde_ComArgumentos\obj\Debug\net9.0\EventHanlde_ComArgumentos.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\EventHanlde_ComArgumentos\obj\Debug\net9.0\EventHanlde_ComArgumentos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\EventHanlde_ComArgumentos\obj\Debug\net9.0\EventHanlde_ComArgumentos.sourcelink.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\EventHanlde_ComArgumentos\obj\Debug\net9.0\EventHanlde_ComArgumentos.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\EventHanlde_ComArgumentos\obj\Debug\net9.0\refint\EventHanlde_ComArgumentos.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\EventHanlde_ComArgumentos\obj\Debug\net9.0\EventHanlde_ComArgumentos.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\EventHanlde_ComArgumentos\obj\Debug\net9.0\EventHanlde_ComArgumentos.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\EventHanlde_ComArgumentos\obj\Debug\net9.0\ref\EventHanlde_ComArgumentos.dll

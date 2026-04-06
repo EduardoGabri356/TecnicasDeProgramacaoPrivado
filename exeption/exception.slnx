@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ExceçãoPersonalizada/ExceçãoPersonalizada.csproj" />
+  <Project Path="exeption/Try_catch_finally.csproj" />
+  <Project Path="Throw/Throw.csproj" />
+</Solution>

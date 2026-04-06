@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Try_catch_finally/1.0.0": {
+        "runtime": {
+          "Try_catch_finally.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Try_catch_finally/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

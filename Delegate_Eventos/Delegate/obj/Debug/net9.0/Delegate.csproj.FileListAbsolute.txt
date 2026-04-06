@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\Delegate\bin\Debug\net9.0\Delegate.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\Delegate\bin\Debug\net9.0\Delegate.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\Delegate\bin\Debug\net9.0\Delegate.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\Delegate\bin\Debug\net9.0\Delegate.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\Delegate\bin\Debug\net9.0\Delegate.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\Delegate\obj\Debug\net9.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\Delegate\obj\Debug\net9.0\Delegate.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\Delegate\obj\Debug\net9.0\Delegate.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\Delegate\obj\Debug\net9.0\Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\Delegate\obj\Debug\net9.0\Delegate.sourcelink.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\Delegate\obj\Debug\net9.0\Delegate.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\Delegate\obj\Debug\net9.0\refint\Delegate.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\Delegate\obj\Debug\net9.0\Delegate.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\Delegate\obj\Debug\net9.0\Delegate.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\3°Semestre\DW-III\Delegate_Eventos\Delegate\obj\Debug\net9.0\ref\Delegate.dll
