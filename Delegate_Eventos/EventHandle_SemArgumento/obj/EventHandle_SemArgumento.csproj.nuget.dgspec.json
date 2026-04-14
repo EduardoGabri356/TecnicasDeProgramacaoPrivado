@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\OneDrive\\Área de Trabalho\\3°Semestre\\DW-III\\Delegate_Eventos\\EventHandle_SemArgumento\\EventHandle_SemArgumento.csproj": {}
+    "C:\\Users\\Usuario\\OneDrive\\Área de Trabalho\\Faculdade\\3°Semestre\\TecProgram-II\\Delegate_Eventos\\EventHandle_SemArgumento\\EventHandle_SemArgumento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\OneDrive\\Área de Trabalho\\3°Semestre\\DW-III\\Delegate_Eventos\\EventHandle_SemArgumento\\EventHandle_SemArgumento.csproj": {
+    "C:\\Users\\Usuario\\OneDrive\\Área de Trabalho\\Faculdade\\3°Semestre\\TecProgram-II\\Delegate_Eventos\\EventHandle_SemArgumento\\EventHandle_SemArgumento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Área de Trabalho\\3°Semestre\\DW-III\\Delegate_Eventos\\EventHandle_SemArgumento\\EventHandle_SemArgumento.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive\\Área de Trabalho\\Faculdade\\3°Semestre\\TecProgram-II\\Delegate_Eventos\\EventHandle_SemArgumento\\EventHandle_SemArgumento.csproj",
         "projectName": "EventHandle_SemArgumento",
-        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Área de Trabalho\\3°Semestre\\DW-III\\Delegate_Eventos\\EventHandle_SemArgumento\\EventHandle_SemArgumento.csproj",
+        "projectPath": "C:\\Users\\Usuario\\OneDrive\\Área de Trabalho\\Faculdade\\3°Semestre\\TecProgram-II\\Delegate_Eventos\\EventHandle_SemArgumento\\EventHandle_SemArgumento.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Área de Trabalho\\3°Semestre\\DW-III\\Delegate_Eventos\\EventHandle_SemArgumento\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\OneDrive\\Área de Trabalho\\Faculdade\\3°Semestre\\TecProgram-II\\Delegate_Eventos\\EventHandle_SemArgumento\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

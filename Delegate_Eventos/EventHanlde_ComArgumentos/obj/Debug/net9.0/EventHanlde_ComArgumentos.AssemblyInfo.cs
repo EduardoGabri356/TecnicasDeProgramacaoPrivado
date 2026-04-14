@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EventHanlde_ComArgumentos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1bad56f57441c7894d2c1e0a53e1c99e49bee26")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+08923fa1c3cb084c925655db97b20a6f6b5df0be")]
 [assembly: System.Reflection.AssemblyProductAttribute("EventHanlde_ComArgumentos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EventHanlde_ComArgumentos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
