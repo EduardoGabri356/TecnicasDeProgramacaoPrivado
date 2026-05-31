@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\Exercicio13-04\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\Exericicio1.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\Exercicio13-04\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\Exericicio1.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\Exercicio13-04\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\Exericicio1.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\Exercicio13-04\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\Exericicio1.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\Exercicio13-04\ConsoleApp1\ConsoleApp1\bin\Debug\net9.0\Exericicio1.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\Exercicio13-04\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\Exericicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\Exercicio13-04\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\Exericicio1.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\Exercicio13-04\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\Exericicio1.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\Exercicio13-04\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\Exericicio1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\Exercicio13-04\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\Exericicio1.sourcelink.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\Exercicio13-04\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\Exericicio1.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\Exercicio13-04\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\refint\Exericicio1.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\Exercicio13-04\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\Exericicio1.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\Exercicio13-04\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\Exericicio1.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\Exercicio13-04\ConsoleApp1\ConsoleApp1\obj\Debug\net9.0\ref\Exericicio1.dll
