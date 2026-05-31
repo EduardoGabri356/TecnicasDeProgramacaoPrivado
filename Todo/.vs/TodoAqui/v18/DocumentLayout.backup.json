@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\TodoAqui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7E5F3C-6D51-4220-B23F-67B34331E9DA}|TodoAqui\\TodoApi.csproj|c:\\users\\bruno\\desktop\\tecnicasdeprogramacao\\tp2\\todoaqui\\todoaqui\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7E5F3C-6D51-4220-B23F-67B34331E9DA}|TodoAqui\\TodoApi.csproj|solutionrelative:todoaqui\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7E5F3C-6D51-4220-B23F-67B34331E9DA}|TodoAqui\\TodoApi.csproj|c:\\users\\bruno\\desktop\\tecnicasdeprogramacao\\tp2\\todoaqui\\todoaqui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7E5F3C-6D51-4220-B23F-67B34331E9DA}|TodoAqui\\TodoApi.csproj|solutionrelative:todoaqui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7E5F3C-6D51-4220-B23F-67B34331E9DA}|TodoAqui\\TodoApi.csproj|c:\\users\\bruno\\desktop\\tecnicasdeprogramacao\\tp2\\todoaqui\\todoaqui\\repositories\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7E5F3C-6D51-4220-B23F-67B34331E9DA}|TodoAqui\\TodoApi.csproj|solutionrelative:todoaqui\\repositories\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7E5F3C-6D51-4220-B23F-67B34331E9DA}|TodoAqui\\TodoApi.csproj|c:\\users\\bruno\\desktop\\tecnicasdeprogramacao\\tp2\\todoaqui\\todoaqui\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7E5F3C-6D51-4220-B23F-67B34331E9DA}|TodoAqui\\TodoApi.csproj|solutionrelative:todoaqui\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7E5F3C-6D51-4220-B23F-67B34331E9DA}|TodoAqui\\TodoApi.csproj|c:\\users\\bruno\\desktop\\tecnicasdeprogramacao\\tp2\\todoaqui\\todoaqui\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7E5F3C-6D51-4220-B23F-67B34331E9DA}|TodoAqui\\TodoApi.csproj|solutionrelative:todoaqui\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7E5F3C-6D51-4220-B23F-67B34331E9DA}|TodoAqui\\TodoApi.csproj|c:\\users\\bruno\\desktop\\tecnicasdeprogramacao\\tp2\\todoaqui\\todoaqui\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E7E5F3C-6D51-4220-B23F-67B34331E9DA}|TodoAqui\\TodoApi.csproj|solutionrelative:todoaqui\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E7E5F3C-6D51-4220-B23F-67B34331E9DA}|TodoAqui\\TodoApi.csproj|c:\\users\\bruno\\desktop\\tecnicasdeprogramacao\\tp2\\todoaqui\\todoaqui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0E7E5F3C-6D51-4220-B23F-67B34331E9DA}|TodoAqui\\TodoApi.csproj|solutionrelative:todoaqui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\TodoAqui\\TodoAqui\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "TodoAqui\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\TodoAqui\\TodoAqui\\WeatherForecast.cs",
+              "RelativeToolTip": "TodoAqui\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T13:27:10.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\TodoAqui\\TodoAqui\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "TodoAqui\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\TodoAqui\\TodoAqui\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "TodoAqui\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T13:13:30.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\TodoAqui\\TodoAqui\\Program.cs",
+              "RelativeDocumentMoniker": "TodoAqui\\Program.cs",
+              "ToolTip": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\TodoAqui\\TodoAqui\\Program.cs",
+              "RelativeToolTip": "TodoAqui\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T12:27:45.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\TodoAqui\\TodoAqui\\appsettings.json",
+              "RelativeDocumentMoniker": "TodoAqui\\appsettings.json",
+              "ToolTip": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\TodoAqui\\TodoAqui\\appsettings.json",
+              "RelativeToolTip": "TodoAqui\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-31T12:27:45.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TarefasController.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\TodoAqui\\TodoAqui\\Controllers\\TarefasController.cs",
+              "RelativeDocumentMoniker": "TodoAqui\\Controllers\\TarefasController.cs",
+              "ToolTip": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\TodoAqui\\TodoAqui\\Controllers\\TarefasController.cs",
+              "RelativeToolTip": "TodoAqui\\Controllers\\TarefasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T12:27:45.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TarefaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\TodoAqui\\TodoAqui\\Repositories\\TarefaRepository.cs",
+              "RelativeDocumentMoniker": "TodoAqui\\Repositories\\TarefaRepository.cs",
+              "ToolTip": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\TodoAqui\\TodoAqui\\Repositories\\TarefaRepository.cs",
+              "RelativeToolTip": "TodoAqui\\Repositories\\TarefaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T12:27:45.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\TodoAqui\\TodoAqui\\Models\\Tarefa.cs",
+              "RelativeDocumentMoniker": "TodoAqui\\Models\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\bruno\\Desktop\\TecnicasDeProgramacao\\TP2\\TodoAqui\\TodoAqui\\Models\\Tarefa.cs",
+              "RelativeToolTip": "TodoAqui\\Models\\Tarefa.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-31T12:27:45.525Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

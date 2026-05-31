@@ -1,0 +1,41 @@
+[Backend — Visual Studio]
+Você cria pelo próprio Visual Studio, sem terminal. O passo a passo é:
+
+Abrir o Visual Studio → "Criar novo projeto"
+Pesquisar e selecionar "ASP.NET Core Web API"
+Dar um nome ao projeto (ex: TodoApi)
+Na próxima tela, escolher:
+
+Framework: .NET 9.0
+Marcar "Usar controllers"
+Deixar marcado "Habilitar suporte ao OpenAPI" (isso já instala o Swagger)
+
+
+Clicar em Criar ✅
+
+Pronto — o Visual Studio já gera automaticamente o Program.cs, o WeatherForecastController de exemplo, e o appsettings.json.
+Depois disso você instala o MongoDB pelo NuGet (gerenciador de pacotes do Visual Studio): clique com o botão direito no projeto → "Gerenciar pacotes NuGet" → pesquisar MongoDB.Driver → instalar.
+
+[Frontend — Terminal]
+Esse sim é feito pelo terminal. Os comandos são:
+bash# 1. Cria o projeto Vue com Vite
+npm create vite@latest NomeDoFrontend -- --template vue
+
+# 2. Entra na pasta criada
+cd NomeDoFrontend
+
+# 3. Instala as dependências base do Vue
+npm install
+
+# 4. Instala o Axios (para fazer as chamadas à API)
+npm install axios
+
+# 5. Roda o servidor de desenvolvimento
+npm run dev
+Depois disso o frontend já estará rodando em http://localhost:5173 e você edita o src/App.vue para construir sua tela.
+
+[Resumindo o fluxo completo:]
+
+Backend → Visual Studio (interface gráfica) + NuGet para instalar o MongoDB.Driver
+Frontend → terminal com npm create vite + npm install axios
+Os dois rodam ao mesmo tempo, e você conecta um ao outro pela URL da API no App.vue

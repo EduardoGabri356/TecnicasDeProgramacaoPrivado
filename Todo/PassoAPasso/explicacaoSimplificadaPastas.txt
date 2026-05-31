@@ -1,0 +1,3 @@
+O fluxo é sempre o mesmo: Model (define os dados) → Repository (fala com o banco) → Controller (expõe os endpoints) → Frontend (consome a API). Se cair um tema diferente como Produtos ou Alunos, é só trocar os nomes e campos — a estrutura é idêntica.
+
+Os dois bugs do projeto original são ótimas pegadinhas de prova: a string de conexão sem : e o campo Cancelado que não bate com concluida do frontend. Se cair, você já sabe onde estão.
