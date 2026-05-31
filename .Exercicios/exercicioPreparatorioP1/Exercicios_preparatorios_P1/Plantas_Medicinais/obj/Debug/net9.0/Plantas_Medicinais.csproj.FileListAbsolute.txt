@@ -1,0 +1,14 @@
+C:\FATEC\Tecnica_programacao_II\2026_1\Exercicios_preparatorios_P1\Plantas_Medicinais\bin\Debug\net9.0\Plantas_Medicinais.exe
+C:\FATEC\Tecnica_programacao_II\2026_1\Exercicios_preparatorios_P1\Plantas_Medicinais\bin\Debug\net9.0\Plantas_Medicinais.deps.json
+C:\FATEC\Tecnica_programacao_II\2026_1\Exercicios_preparatorios_P1\Plantas_Medicinais\bin\Debug\net9.0\Plantas_Medicinais.runtimeconfig.json
+C:\FATEC\Tecnica_programacao_II\2026_1\Exercicios_preparatorios_P1\Plantas_Medicinais\bin\Debug\net9.0\Plantas_Medicinais.dll
+C:\FATEC\Tecnica_programacao_II\2026_1\Exercicios_preparatorios_P1\Plantas_Medicinais\bin\Debug\net9.0\Plantas_Medicinais.pdb
+C:\FATEC\Tecnica_programacao_II\2026_1\Exercicios_preparatorios_P1\Plantas_Medicinais\obj\Debug\net9.0\Plantas_Medicinais.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Tecnica_programacao_II\2026_1\Exercicios_preparatorios_P1\Plantas_Medicinais\obj\Debug\net9.0\Plantas_Medicinais.AssemblyInfoInputs.cache
+C:\FATEC\Tecnica_programacao_II\2026_1\Exercicios_preparatorios_P1\Plantas_Medicinais\obj\Debug\net9.0\Plantas_Medicinais.AssemblyInfo.cs
+C:\FATEC\Tecnica_programacao_II\2026_1\Exercicios_preparatorios_P1\Plantas_Medicinais\obj\Debug\net9.0\Plantas_Medicinais.csproj.CoreCompileInputs.cache
+C:\FATEC\Tecnica_programacao_II\2026_1\Exercicios_preparatorios_P1\Plantas_Medicinais\obj\Debug\net9.0\Plantas_Medicinais.dll
+C:\FATEC\Tecnica_programacao_II\2026_1\Exercicios_preparatorios_P1\Plantas_Medicinais\obj\Debug\net9.0\refint\Plantas_Medicinais.dll
+C:\FATEC\Tecnica_programacao_II\2026_1\Exercicios_preparatorios_P1\Plantas_Medicinais\obj\Debug\net9.0\Plantas_Medicinais.pdb
+C:\FATEC\Tecnica_programacao_II\2026_1\Exercicios_preparatorios_P1\Plantas_Medicinais\obj\Debug\net9.0\Plantas_Medicinais.genruntimeconfig.cache
+C:\FATEC\Tecnica_programacao_II\2026_1\Exercicios_preparatorios_P1\Plantas_Medicinais\obj\Debug\net9.0\ref\Plantas_Medicinais.dll

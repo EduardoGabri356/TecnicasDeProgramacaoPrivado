@@ -1,0 +1,15 @@
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\exercicioPreparatorioP1\ExerciciosComIa\SistemaTemperatura\InterfaHeranç\bin\Debug\net9.0\PostoGasol.exe
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\exercicioPreparatorioP1\ExerciciosComIa\SistemaTemperatura\InterfaHeranç\bin\Debug\net9.0\PostoGasol.deps.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\exercicioPreparatorioP1\ExerciciosComIa\SistemaTemperatura\InterfaHeranç\bin\Debug\net9.0\PostoGasol.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\exercicioPreparatorioP1\ExerciciosComIa\SistemaTemperatura\InterfaHeranç\bin\Debug\net9.0\PostoGasol.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\exercicioPreparatorioP1\ExerciciosComIa\SistemaTemperatura\InterfaHeranç\bin\Debug\net9.0\PostoGasol.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\exercicioPreparatorioP1\ExerciciosComIa\SistemaTemperatura\InterfaHeranç\obj\Debug\net9.0\PostoGasol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\exercicioPreparatorioP1\ExerciciosComIa\SistemaTemperatura\InterfaHeranç\obj\Debug\net9.0\PostoGasol.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\exercicioPreparatorioP1\ExerciciosComIa\SistemaTemperatura\InterfaHeranç\obj\Debug\net9.0\PostoGasol.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\exercicioPreparatorioP1\ExerciciosComIa\SistemaTemperatura\InterfaHeranç\obj\Debug\net9.0\PostoGasol.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\exercicioPreparatorioP1\ExerciciosComIa\SistemaTemperatura\InterfaHeranç\obj\Debug\net9.0\PostoGasol.sourcelink.json
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\exercicioPreparatorioP1\ExerciciosComIa\SistemaTemperatura\InterfaHeranç\obj\Debug\net9.0\PostoGasol.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\exercicioPreparatorioP1\ExerciciosComIa\SistemaTemperatura\InterfaHeranç\obj\Debug\net9.0\refint\PostoGasol.dll
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\exercicioPreparatorioP1\ExerciciosComIa\SistemaTemperatura\InterfaHeranç\obj\Debug\net9.0\PostoGasol.pdb
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\exercicioPreparatorioP1\ExerciciosComIa\SistemaTemperatura\InterfaHeranç\obj\Debug\net9.0\PostoGasol.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Área de Trabalho\Faculdade\3°Semestre\TecProgram-II\.Exercicios\exercicioPreparatorioP1\ExerciciosComIa\SistemaTemperatura\InterfaHeranç\obj\Debug\net9.0\ref\PostoGasol.dll

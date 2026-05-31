@@ -1,0 +1,14 @@
+C:\FATEC\Tecnica_programacao_II\2026_1\Exercicios_preparatorios_P1\SistemaMultas\bin\Debug\net9.0\SistemaMultas.exe
+C:\FATEC\Tecnica_programacao_II\2026_1\Exercicios_preparatorios_P1\SistemaMultas\bin\Debug\net9.0\SistemaMultas.deps.json
+C:\FATEC\Tecnica_programacao_II\2026_1\Exercicios_preparatorios_P1\SistemaMultas\bin\Debug\net9.0\SistemaMultas.runtimeconfig.json
+C:\FATEC\Tecnica_programacao_II\2026_1\Exercicios_preparatorios_P1\SistemaMultas\bin\Debug\net9.0\SistemaMultas.dll
+C:\FATEC\Tecnica_programacao_II\2026_1\Exercicios_preparatorios_P1\SistemaMultas\bin\Debug\net9.0\SistemaMultas.pdb
+C:\FATEC\Tecnica_programacao_II\2026_1\Exercicios_preparatorios_P1\SistemaMultas\obj\Debug\net9.0\SistemaMultas.GeneratedMSBuildEditorConfig.editorconfig
+C:\FATEC\Tecnica_programacao_II\2026_1\Exercicios_preparatorios_P1\SistemaMultas\obj\Debug\net9.0\SistemaMultas.AssemblyInfoInputs.cache
+C:\FATEC\Tecnica_programacao_II\2026_1\Exercicios_preparatorios_P1\SistemaMultas\obj\Debug\net9.0\SistemaMultas.AssemblyInfo.cs
+C:\FATEC\Tecnica_programacao_II\2026_1\Exercicios_preparatorios_P1\SistemaMultas\obj\Debug\net9.0\SistemaMultas.csproj.CoreCompileInputs.cache
+C:\FATEC\Tecnica_programacao_II\2026_1\Exercicios_preparatorios_P1\SistemaMultas\obj\Debug\net9.0\SistemaMultas.dll
+C:\FATEC\Tecnica_programacao_II\2026_1\Exercicios_preparatorios_P1\SistemaMultas\obj\Debug\net9.0\refint\SistemaMultas.dll
+C:\FATEC\Tecnica_programacao_II\2026_1\Exercicios_preparatorios_P1\SistemaMultas\obj\Debug\net9.0\SistemaMultas.pdb
+C:\FATEC\Tecnica_programacao_II\2026_1\Exercicios_preparatorios_P1\SistemaMultas\obj\Debug\net9.0\SistemaMultas.genruntimeconfig.cache
+C:\FATEC\Tecnica_programacao_II\2026_1\Exercicios_preparatorios_P1\SistemaMultas\obj\Debug\net9.0\ref\SistemaMultas.dll

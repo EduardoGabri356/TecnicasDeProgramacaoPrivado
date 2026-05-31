@@ -1,0 +1,38 @@
+[
+  {
+    "Placa": "ABC-1234",
+    "TipoInfracao": "Velocidade",
+    "Valor": 180.50,
+    "Data": "2026-04-30T10:42:10.4529943-03:00"
+  },
+  {
+    "Placa": "XYZ-9876",
+    "TipoInfracao": "Embriaguez",
+    "Valor": 2934.70,
+    "Data": "2026-04-30T10:42:10.4671958-03:00"
+  },
+  {
+    "Placa": "KJA-4455",
+    "TipoInfracao": "Farol apagado",
+    "Valor": 130.16,
+    "Data": "2026-04-30T10:42:10.4675437-03:00"
+  },
+  {
+    "Placa": "ABC-1234",
+    "TipoInfracao": "Velocidade",
+    "Valor": 180.50,
+    "Data": "2026-04-30T12:01:16.7255903-03:00"
+  },
+  {
+    "Placa": "XYZ-9876",
+    "TipoInfracao": "Embriaguez",
+    "Valor": 2934.70,
+    "Data": "2026-04-30T12:01:16.7318623-03:00"
+  },
+  {
+    "Placa": "KJA-4455",
+    "TipoInfracao": "Farol apagado",
+    "Valor": 130.16,
+    "Data": "2026-04-30T12:01:16.7325291-03:00"
+  }
+]

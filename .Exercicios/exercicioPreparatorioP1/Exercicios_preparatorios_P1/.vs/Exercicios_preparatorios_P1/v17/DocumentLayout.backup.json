@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\FATEC\\Tecnica_programacao_II\\2026_1\\Exercicios_preparatorios_P1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB88190-E409-4C43-B40C-0FC0632B2C5D}|Plantas_Medicinais\\Plantas_Medicinais.csproj|c:\\fatec\\tecnica_programacao_ii\\2026_1\\exercicios_preparatorios_p1\\plantas_medicinais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB88190-E409-4C43-B40C-0FC0632B2C5D}|Plantas_Medicinais\\Plantas_Medicinais.csproj|solutionrelative:plantas_medicinais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3100013D-7C12-496C-8BE2-392BD70E2E07}|SistemaMultas\\SistemaMultas.csproj|c:\\fatec\\tecnica_programacao_ii\\2026_1\\exercicios_preparatorios_p1\\sistemamultas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3100013D-7C12-496C-8BE2-392BD70E2E07}|SistemaMultas\\SistemaMultas.csproj|solutionrelative:sistemamultas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FATEC\\Tecnica_programacao_II\\2026_1\\Exercicios_preparatorios_P1\\Plantas_Medicinais\\Program.cs",
+              "RelativeDocumentMoniker": "Plantas_Medicinais\\Program.cs",
+              "ToolTip": "C:\\FATEC\\Tecnica_programacao_II\\2026_1\\Exercicios_preparatorios_P1\\Plantas_Medicinais\\Program.cs",
+              "RelativeToolTip": "Plantas_Medicinais\\Program.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAHMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T15:10:38.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\FATEC\\Tecnica_programacao_II\\2026_1\\Exercicios_preparatorios_P1\\SistemaMultas\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaMultas\\Program.cs",
+              "ToolTip": "C:\\FATEC\\Tecnica_programacao_II\\2026_1\\Exercicios_preparatorios_P1\\SistemaMultas\\Program.cs",
+              "RelativeToolTip": "SistemaMultas\\Program.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAGcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-30T13:36:28.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

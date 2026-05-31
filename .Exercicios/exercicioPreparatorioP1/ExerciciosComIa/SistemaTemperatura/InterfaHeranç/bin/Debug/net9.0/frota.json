@@ -1,0 +1,14 @@
+[
+  {
+    "Placa": "CAR-1234",
+    "TipoVeiculo": "Carro",
+    "ValorTotal": 195.00,
+    "Data": "2026-05-04T00:29:45.3189407-03:00"
+  },
+  {
+    "Placa": "TRK-2024",
+    "TipoVeiculo": "Caminhao",
+    "ValorTotal": 1740.00,
+    "Data": "2026-05-04T00:29:45.3901647-03:00"
+  }
+]

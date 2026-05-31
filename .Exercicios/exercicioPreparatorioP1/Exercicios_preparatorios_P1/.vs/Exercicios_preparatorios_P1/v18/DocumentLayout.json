@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\3\u00B0Semestre\\TecProgram-II\\.Exercicios\\exercicioPreparatorioP1\\Exercicios_preparatorios_P1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3100013D-7C12-496C-8BE2-392BD70E2E07}|SistemaMultas\\SistemaMultas.csproj|c:\\users\\usuario\\onedrive\\\u00E1rea de trabalho\\faculdade\\3\u00B0semestre\\tecprogram-ii\\.exercicios\\exerciciopreparatoriop1\\exercicios_preparatorios_p1\\sistemamultas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3100013D-7C12-496C-8BE2-392BD70E2E07}|SistemaMultas\\SistemaMultas.csproj|solutionrelative:sistemamultas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBB88190-E409-4C43-B40C-0FC0632B2C5D}|Plantas_Medicinais\\Plantas_Medicinais.csproj|c:\\users\\usuario\\onedrive\\\u00E1rea de trabalho\\faculdade\\3\u00B0semestre\\tecprogram-ii\\.exercicios\\exerciciopreparatoriop1\\exercicios_preparatorios_p1\\plantas_medicinais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBB88190-E409-4C43-B40C-0FC0632B2C5D}|Plantas_Medicinais\\Plantas_Medicinais.csproj|solutionrelative:plantas_medicinais\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\3\u00B0Semestre\\TecProgram-II\\.Exercicios\\exercicioPreparatorioP1\\Exercicios_preparatorios_P1\\Plantas_Medicinais\\Program.cs",
+              "RelativeDocumentMoniker": "Plantas_Medicinais\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\3\u00B0Semestre\\TecProgram-II\\.Exercicios\\exercicioPreparatorioP1\\Exercicios_preparatorios_P1\\Plantas_Medicinais\\Program.cs",
+              "RelativeToolTip": "Plantas_Medicinais\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T02:36:32.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\3\u00B0Semestre\\TecProgram-II\\.Exercicios\\exercicioPreparatorioP1\\Exercicios_preparatorios_P1\\SistemaMultas\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaMultas\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\3\u00B0Semestre\\TecProgram-II\\.Exercicios\\exercicioPreparatorioP1\\Exercicios_preparatorios_P1\\SistemaMultas\\Program.cs",
+              "RelativeToolTip": "SistemaMultas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T02:36:33.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

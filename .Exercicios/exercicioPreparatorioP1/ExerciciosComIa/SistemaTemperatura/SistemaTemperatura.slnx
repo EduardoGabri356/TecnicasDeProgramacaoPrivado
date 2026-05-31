@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Biblioteca/Biblioteca.csproj" />
+  <Project Path="E-Commerce/E-Commerce.csproj" />
+  <Project Path="InterfaHeranç/PostoGasol.csproj" />
+  <Project Path="SistemaTemperatura/SistemaTemperatura.csproj" />
+  <Project Path="SmartHome/SmartHome.csproj" />
+</Solution>
