@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\3\u00B0Semestre\\TecProgram-II\\TarefasApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6797BED3-CEBC-6F97-9787-61F7EB4D6ADC}|TarefasApi\\TarefasApi.csproj|c:\\users\\usuario\\onedrive\\\u00E1rea de trabalho\\faculdade\\3\u00B0semestre\\tecprogram-ii\\tarefasapi\\tarefasapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6797BED3-CEBC-6F97-9787-61F7EB4D6ADC}|TarefasApi\\TarefasApi.csproj|solutionrelative:tarefasapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6797BED3-CEBC-6F97-9787-61F7EB4D6ADC}|TarefasApi\\TarefasApi.csproj|c:\\users\\usuario\\onedrive\\\u00E1rea de trabalho\\faculdade\\3\u00B0semestre\\tecprogram-ii\\tarefasapi\\tarefasapi\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6797BED3-CEBC-6F97-9787-61F7EB4D6ADC}|TarefasApi\\TarefasApi.csproj|solutionrelative:tarefasapi\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -34,11 +38,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\3\u00B0Semestre\\TecProgram-II\\TarefasApi\\TarefasApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TarefasApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\3\u00B0Semestre\\TecProgram-II\\TarefasApi\\TarefasApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TarefasApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-01T10:40:07.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\3\u00B0Semestre\\TecProgram-II\\TarefasApi\\TarefasApi\\Program.cs",
               "RelativeDocumentMoniker": "TarefasApi\\Program.cs",
@@ -46,25 +63,24 @@
               "RelativeToolTip": "TarefasApi\\Program.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T16:31:12.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-31T16:31:12.195Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "TarefasController.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\3\u00B0Semestre\\TecProgram-II\\TarefasApi\\TarefasApi\\Controllers\\TarefasController.cs",
               "RelativeDocumentMoniker": "TarefasApi\\Controllers\\TarefasController.cs",
               "ToolTip": "C:\\Users\\Usuario\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\3\u00B0Semestre\\TecProgram-II\\TarefasApi\\TarefasApi\\Controllers\\TarefasController.cs",
               "RelativeToolTip": "TarefasApi\\Controllers\\TarefasController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAA1wBwAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwBwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-31T15:44:51.329Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TarefaService.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\3\u00B0Semestre\\TecProgram-II\\TarefasApi\\TarefasApi\\Services\\TarefaService.cs",
               "RelativeDocumentMoniker": "TarefasApi\\Services\\TarefaService.cs",
@@ -72,12 +88,11 @@
               "RelativeToolTip": "TarefasApi\\Services\\TarefaService.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAxwB4AAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T15:46:09.694Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-31T15:46:09.694Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Tarefa.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\3\u00B0Semestre\\TecProgram-II\\TarefasApi\\TarefasApi\\Models\\Tarefa.cs",
               "RelativeDocumentMoniker": "TarefasApi\\Models\\Tarefa.cs",
@@ -85,12 +100,11 @@
               "RelativeToolTip": "TarefasApi\\Models\\Tarefa.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-31T15:45:34.928Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-31T15:45:34.928Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\3\u00B0Semestre\\TecProgram-II\\TarefasApi\\TarefasApi\\appsettings.json",
               "RelativeDocumentMoniker": "TarefasApi\\appsettings.json",
@@ -98,12 +112,11 @@
               "RelativeToolTip": "TarefasApi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-31T15:46:48.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-31T15:46:48.488Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TarefasApi.csproj",
               "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\\u00C1rea de Trabalho\\Faculdade\\3\u00B0Semestre\\TecProgram-II\\TarefasApi\\TarefasApi\\TarefasApi.csproj",
               "RelativeDocumentMoniker": "TarefasApi\\TarefasApi.csproj",
@@ -111,8 +124,7 @@
               "RelativeToolTip": "TarefasApi\\TarefasApi.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-31T15:43:53.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-31T15:43:53.906Z"
             }
           ]
         }
